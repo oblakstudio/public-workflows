@@ -11,7 +11,7 @@ on:
         type: string
         description: Operating system to test
         required: false
-        default: '["ubuntu-latest", "macos"]'
+        default: '["ubuntu-latest", "macos-latest"]'
       ddev_version:
         type: string
         description: DDEV version to test
