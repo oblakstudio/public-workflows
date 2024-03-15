@@ -3,7 +3,7 @@
     "semantic-release": "semantic-release"
   },
   "devDependencies": {
-    "@semantic-release/github": "^9.2.1",
+    "@semantic-release/github": "^10.0.0",
     "semantic-release": "^22.0.5",
     "semantic-release-major-tag": "^0.3.2"
   }
